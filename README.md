@@ -1,9 +1,9 @@
 # Todo-List
 
 
-## Neste módulo criamos uma aplicação de listagem utilizando React Native Expo,TypeScript,Hooks
+## Desafio 01 - Praticando os conceitos do React Native
 
 <div>
-  <img src="foto2.png"/>
-  <img src="foto1.png"/>
+  <img src="foto1.jpeg"/>
+  <img src="foto2.jpeg"/>
 </div>
